@@ -5,7 +5,7 @@
 Meu nome é Guilherme, tenho 18 anos e nasci na cidade de Ribeirão Preto. Concluí o ensino médio em 2024. Atualmente, estou cursando Engenharia De Software pela UNAERP. Sou apaixonado por tecnologia e desenvolvimento de softwares.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@guiizx0">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
