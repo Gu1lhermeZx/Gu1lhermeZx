@@ -85,7 +85,7 @@ Meu nome é Guilherme, tenho 18 anos e nasci na cidade de Ribeirão Preto. Concl
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Gu1lhermeZx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -93,7 +93,7 @@ Meu nome é Guilherme, tenho 18 anos e nasci na cidade de Ribeirão Preto. Concl
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="115" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1lhermeZx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
